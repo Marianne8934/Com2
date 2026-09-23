@@ -1,0 +1,4 @@
+.\INSTALAR.bat
+
+.\INICIAR_INTERFACES.bat
+
